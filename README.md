@@ -37,7 +37,7 @@ O objetivo principal deste projeto é desenvolver habilidades em manipulação d
 ![ferramentas](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/014e1004-f358-4fcc-a3c3-9222040b665b)
 ![Machine Learning](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlebard&logoColor=4993E6)
 ![Google Colab](https://img.shields.io/badge/Colab-4796E4?style=for-the-badge&logo=googlecolab&color=000000)
-![Machine Learning](https://img.shields.io/badge/Google-000000?style=for-the-badge&logo=googlebard&logoColor=4993E6)
+![Google AI studio](https://img.shields.io/badge/studio-000000?style=for-the-badge&logo=google&logoColor=4993E6)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=4993E6)
 ![Git](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=git&logoColor=4993E6)
 
