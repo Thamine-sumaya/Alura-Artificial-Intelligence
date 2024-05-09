@@ -2,11 +2,13 @@
 ![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 ![Visão geral](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/313b4792-5580-4688-9aff-910dab9a6092)
 <br>
+Este repositório contém o código e os arquivos relacionados ao projeto proporcionado pela imersão Alura de Inteligência Artificial em parceria com a Google. O projeto foi desenvolvido como parte de um desafio específico e aborda questões de Inteligência Artificial com o objetivo de introduzir seus principais fundamentos por meio da prática.
 
 ![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 
 ![Objetivo](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/70183127-b286-49cb-b81c-01eacaff867c)
 <br>
+O objetivo principal deste projeto é desenvolver habilidades em manipulação da ferramenta Gemini.
 
 ![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 
@@ -33,10 +35,13 @@
 ![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 
 ![ferramentas](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/014e1004-f358-4fcc-a3c3-9222040b665b)
-
+![Machine Learning](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlebard&logoColor=4993E6)
 ![Google Colab](https://img.shields.io/badge/Colab-4796E4?style=for-the-badge&logo=googlecolab&color=000000)
+![Machine Learning](https://img.shields.io/badge/Google-000000?style=for-the-badge&logo=googlebard&logoColor=4993E6)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=4993E6)
+![Git](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=git&logoColor=4993E6)
 
 ![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 
 ![Contrbuições](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/35f30be2-b27e-494f-8fba-b589889e52d4)
-
+Esse projeto não está aberto para contribuições, é apenas uma demonstração dos conhecimentos adquiridos durante a imersão.
