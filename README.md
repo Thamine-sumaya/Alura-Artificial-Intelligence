@@ -53,6 +53,8 @@ Nesta aula, por meio da utilização do Google Colab, foi possível a criação 
 [![Google AI studio](https://img.shields.io/badge/studio-000000?style=for-the-badge&logo=google&logoColor=4993E6)](https://aistudio.google.com/app/prompts/new_chat)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=4993E6)
 ![Git](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=git&logoColor=4993E6)
+![Numpy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=4993E6)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=4993E6)
 
 ![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 
