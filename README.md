@@ -15,15 +15,19 @@ O objetivo principal deste projeto é desenvolver habilidades em manipulação d
 ![conteúdo](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/e7d808be-2c3d-4def-a46e-ab348963bfb5)
 ![aula1](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/08c8c51b-5d03-4e22-94ed-89c27023d5ed)
 <br>
+Mergulhando no Gemini, a IA do Google.
 
 ![aula2](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/146fcd33-42a5-43b6-a834-a38213ea2f9c)
 <br>
+Melhores técnicas em Engenharia de Prompt.
 
 ![aula3](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/1b0049e6-1f17-467c-aa1d-fffa6394e94d)
 <br>
+Explorando os parâmetros do Google AI Studio.
 
 ![aula4](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/a2300ae1-3fc0-4bc8-9a5c-6d1e0b10523b)
 <br>
+Criando seu próprio chatbot com a Gemini API no Google Colab.
 
 <!--![aula5](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/0a28dbc0-fc49-481a-b6b4-3088732ee830)
 <br>
