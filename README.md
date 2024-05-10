@@ -30,7 +30,7 @@ Esta aula abordou técnicas de Engenharia de Prompt para aumento da eficácia do
 ![aula3](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/1b0049e6-1f17-467c-aa1d-fffa6394e94d)
 <br>
 <b>Explorando os parâmetros do Google AI Studio.</b> <BR>
-Esta aula serviu como guia introdutório para a utilização da plataforma de utilização avançada do Gemini.
+Esta aula serviu como guia introdutório para a utilização da plataforma de utilização avançada da ferramenta Gemini.
 
 ![aula4](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/a2300ae1-3fc0-4bc8-9a5c-6d1e0b10523b)
 <br>
@@ -40,6 +40,7 @@ Nesta aula, por meio da utilização do Google Colab, foi possível a criação 
 ![aula5](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/0a28dbc0-fc49-481a-b6b4-3088732ee830)
 <br>
 <b>Criando um sistema para busca em documentos usando embeddings e a Gemini API.</b> <BR>
+Essa aula explora a compreensão do que são "[embends](https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br)" por meio da prática, abordando desda [geração de embends](https://github.com/Thamine-sumaya/Alura-Artificial-Intelligence/blob/main/Explorando_a_utilização_de_Embends.ipynb) até a criação de funções capazes de identificar o melhor resultado dentro das opções apresentadas, utilizando as bibliotecas Pandas e Numpy.
 ![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 
 ![Projeto](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/8837c2da-13b0-46ec-8f04-d0f6d3e262ec)
