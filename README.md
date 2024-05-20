@@ -44,7 +44,7 @@ Essa aula explora a compreensão do que são "[embends](https://ai.google.dev/ge
 ![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 
 ![Projeto](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/8837c2da-13b0-46ec-8f04-d0f6d3e262ec)
-  [![Projeto Competição](https://github-readme-stats.vercel.app/api/pin/?username=Thamine-sumaya&repo=Projeto-Alura-Chatbot&border_color=4796E4&bg_color=0D1117&title_color=A21EFF&text_color=FFFFFF&icon_color=FF6587)](https://github.com/Thamine-sumaya/Projeto-Alura-Chatbot) 
+  [![Projeto Competição](https://github-readme-stats.vercel.app/api/pin/?username=Thamine-sumaya&repo=Projeto-Alura-Chatbot&border_color=3EE3A4&bg_color=0D1117&title_color=ffffff&text_color=128DAA&icon_color=9EFF01)](https://github.com/Thamine-sumaya/Projeto-Alura-Chatbot) 
   
 ![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 
